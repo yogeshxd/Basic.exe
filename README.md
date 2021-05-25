@@ -1,9 +1,7 @@
-# Grabby
-Just need a double click to give you all wifi passwords from a system...
+# Basic.exe
+The main idea behind this repository is to provide some simple yet lethal programmes that can do various things.
 
-This programme grabs all passwords that a system has ever connected to
+Detailed description is as follows :
 
-Tip: 
-Put it in a pendrive and just wander around collecting wifi passwords from diff systems.
-
-Enjoy
+1. Grabby - Collects all wifi passwords stored in any win10 system and provides the output in plain text file.
+2. More coing Soon...
