@@ -8,7 +8,8 @@ Detailed description is as follows :
 3. More coming soon...
 
 <h2>Made this repo Open Source</h2>
-Get the source code [here.](https://github.com/yogeshxd/Basic.exe-Source)
+
+Get the source code [here](https://github.com/yogeshxd/Basic.exe-Source).
 
 Follow & dm me on [Insta](https://www.instagram.com/yogesh_.xd/) for any doubts.
 Also have code that can mail you the output files. Contact for that.
