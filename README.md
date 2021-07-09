@@ -11,5 +11,5 @@ Detailed description is as follows :
 
 Get the source code [here](https://github.com/yogeshxd/Basic.exe-Source).
 
-Follow & dm me on [Insta](https://www.instagram.com/yogesh_.xd/) for any doubts.
+You can either create a issue or Follow & dm me on [Insta](https://www.instagram.com/yogesh_.xd/) for any doubts.
 Also have code that can mail you the output files. Contact for that.
